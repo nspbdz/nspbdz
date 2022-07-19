@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Soel30/Soel30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nspbdz&show_icons=true&theme=radical" alt="Soel30's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nspbdz&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&theme=omni" alt="Soel30's GitHub Stats" />
 </a>

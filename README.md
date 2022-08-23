@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on on laravel Framework
-- 🌱 I’m currently learning Go & Kotlin
+- 🌱 I’m currently learning Vue Js
 - 👯 I’m looking to collaborate 
 - 💬 Ask me about web development
 

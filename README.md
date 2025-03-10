@@ -5,7 +5,6 @@
 <br>
 
 - 🔭 I’m currently working on on laravel Framework and vueJS(NuxtJS)
-- 🌱 I’m currently learning Mobile Dev
 - 👯 I’m looking to collaborate 
 - 💬 Ask me about web development
 
